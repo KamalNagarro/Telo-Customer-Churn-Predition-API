@@ -1,6 +1,15 @@
-# 📱 Telco Customer Churn Prediction & REST API Service
+# 📱 Telco Customer Churn Prediction API Service
 
 An end-to-end machine learning project for predicting telecommunications customer churn using the **IBM Telco Customer Churn Dataset**. The solution includes comprehensive data preprocessing, exploratory data analysis (EDA), custom feature engineering, Decision Tree classification models, model interpretation, and a production FastAPI REST API service.
+
+---
+
+## 📦 Project Deliverables & Links
+
+| Link | URL |
+| :--- | :--- |
+| **Repository** | [GitHub Repository](https://github.com/KamalNagarro/Telo-Customer-Churn-Predition-API) |
+| **Video Demo** | [Project Walkthrough](https://nagarro-my.sharepoint.com/:v:/r/personal/kamal_kumar_nagarro_com/Documents/NAGP/DS-ML/kamal_3152881_Data%20Science%20Assignment.mp4?d=w6f06bb0e91904f2588d3a96b93f712ce&csf=1&web=1&e=J5yu1N) |
 
 ---
 
